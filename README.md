@@ -1,6 +1,6 @@
 # blog
 
-A new Flutter project.
+A new Flutter Blog/news App.
 
 ## Getting Started
 
